@@ -6,7 +6,7 @@
 
 ## About
 
-demo for node.js/express server for running a Twilio IVR chatbot with Voiceflow SDK.
+demo for node.js/express server for running a Twilio IVR chatbot with Voiceflow SDK .
 
 ![](public/twilio-studio.png)
 
